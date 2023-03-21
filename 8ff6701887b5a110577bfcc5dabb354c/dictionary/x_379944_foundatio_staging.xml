@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="04d7b81c87b5a110577bfcc5dabb357d" label="Staging" max_length="40" name="x_379944_foundatio_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="customer id" max_length="40" name="customer_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer name" max_length="40" name="customer_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="unique id" max_length="40" name="unique_id" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

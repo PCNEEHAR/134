@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> Staging</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">f4f7b09887b5a110577bfcc5dabb3574</icon>
+        <name>Stagings</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 10:38:12</sys_created_on>
+        <sys_id>45f7bc1c87b5a110577bfcc5dabb353c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stagings</sys_name>
+        <sys_package display_value="Foundation Data" source="x_379944_foundatio">8ff6701887b5a110577bfcc5dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Foundation Data">8ff6701887b5a110577bfcc5dabb354c</sys_scope>
+        <sys_update_name>sys_sg_list_screen_45f7bc1c87b5a110577bfcc5dabb353c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 10:38:12</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=45f7bc1c87b5a110577bfcc5dabb353c"/>
+</record_update>

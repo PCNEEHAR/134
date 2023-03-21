@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home Foundation Data</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 10:38:11</sys_created_on>
+        <sys_id>74f7b09887b5a110577bfcc5dabb3576</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Foundation Data</sys_name>
+        <sys_package display_value="Foundation Data" source="x_379944_foundatio">8ff6701887b5a110577bfcc5dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Foundation Data">8ff6701887b5a110577bfcc5dabb354c</sys_scope>
+        <sys_update_name>sys_sg_icon_74f7b09887b5a110577bfcc5dabb3576</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 10:38:11</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>
